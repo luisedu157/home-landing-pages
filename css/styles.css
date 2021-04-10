@@ -1,0 +1,133 @@
+body{
+    background-color: black;
+}
+
+footer{
+    padding: 20px;
+}
+
+
+#menuLateral{
+    position: absolute;
+    z-index: 5000;
+    margin-top: 50px;
+}
+
+#experiencia{
+    background-image: url("https://www.ssangyong.com.co/wp-content/uploads/2020/08/bg-sections.jpg");
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-size: content;
+    height: 500px;
+}
+
+#textExperience{
+    padding-top: 50px;
+    color: #fff;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+#privacidad{
+    color: #fff;
+}
+
+.navbar{
+    background-color: rgba(0,0,0, 0.5);
+    color: #fff;
+}
+
+.dropdown-menu{
+    background-color: rgba(0,0,0, 0.5);
+    color: #fff;
+}
+.modelItem{
+    background-color: rgba(0,0,0, 0.5);
+    border-radius: 0 5px 5px 0;
+    box-shadow: 4px 2px 2px 2px;
+    
+}
+
+:hover.modelItem{
+    
+    background-color: rgba(0,0,0, 0.7);
+    padding: 3px;
+}
+
+.imgCar{
+    margin-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.modelItem span{
+    display: block;
+    text-align: right;
+    color: white;
+    margin-top: -26px;
+    padding: 5px;
+    font-size: 1em;
+}
+.linkCarro{
+    font-size: 1.5em;
+    text-align: right;
+    padding-top: -370px;
+    z-index: 5000;
+    display: block;
+    position: absolute;
+    left: 40%;
+    bottom: 8%;
+    width: 20%;   
+}
+
+:hover.linkCarro a{
+    
+    padding: 10px;
+    font-weight: 500;
+}
+
+.linkCarro a{
+    text-decoration: none;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+
+.redes{
+    color: #fff;
+}
+
+@media screen and (max-width: 768px){
+    
+    #menuLateral{
+        z-index: 1;
+        position: relative;
+        margin-top: 0;   
+    }
+
+    #principalContainer{
+        margin-top: 15%
+    }
+
+    .modelItem img{
+        width: 25%;
+    }
+
+    .linkCarro{
+        width: 26%;
+    }
+
+    .linkCarro a{
+        font-size: .4em;
+        padding: 3px;
+    }
+
+    :hover.linkCarro a{
+    
+        padding: 5px;
+        font-weight: 500;
+    }
+
+}

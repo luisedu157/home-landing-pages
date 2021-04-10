@@ -1,0 +1,146 @@
+body{
+    background-color: #000;
+}
+
+footer{
+    padding: 20px;
+    background-color: grey;
+}
+
+#encabezado{
+    background-image: url("../images/bg-new-korando-home.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#iconosKorando{
+    padding-top: 65%;
+    filter: invert(1);
+}
+
+
+#registroForm{
+    padding: 20px;
+    background-color: rgba(0,0,0,0.6);
+    color: #fff;
+    margin: 5% 5%;
+    
+}
+
+#privacidad{
+    color: #fff;
+}
+
+#expertos{
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+#title{
+    
+    margin: 50px auto;
+}
+
+#title h2{
+    margin-top: 50px;
+    color: #fff;
+}
+
+#title img{
+    filter: invert(1);
+    margin: 0px;
+    
+}
+
+#videoColores video{
+    margin: auto 5%;
+}
+
+
+
+#videoColores h2{
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+#garantia p{
+    color: #fff;
+    font-size: 1em;
+}
+
+.card{
+    margin-right: 5px;
+}
+
+.card h6{
+    text-align: center;
+    font-weight: 600;
+}
+
+.btnTest{
+    font-size: 1.5em;
+    display: block;
+    left: 30%;
+    bottom: 8%;
+    width: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.btnTest a{
+    text-decoration: none;
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.redes{
+    color: #fff;
+}
+
+@media screen and (max-width: 768px){
+    
+    #encabezado{
+        margin-top: 14%;
+        background-position-x: 20%;
+    }
+
+    #iconosKorando{
+        display: none;
+    }
+
+    #registroForm{
+        border: 1px solid white;
+    }
+
+
+    #videoColores video{
+        max-width: 100%;
+    }
+
+    #review iframe{
+        width: 100%;
+        height: auto;
+    }
+
+    .card{
+        margin-right: 0;
+    }  
+
+    .btnTest{
+        width: auto;
+        text-align: center;
+    }
+
+    .btnTest a{
+        font-size: .6em;
+        padding: 3px;
+    }
+}

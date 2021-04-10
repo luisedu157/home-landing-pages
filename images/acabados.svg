@@ -1,0 +1,27 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="_003-diamond" data-name="003-diamond" width="41.715" height="42.27" viewBox="0 0 41.715 42.27">
+  <g id="Grupo_468" data-name="Grupo 468" transform="translate(0 9.9)">
+    <g id="Grupo_467" data-name="Grupo 467">
+      <path id="Trazado_1146" data-name="Trazado 1146" d="M44.866,128.343l-7.2-8.146a.826.826,0,0,0-.619-.279H11.383a.826.826,0,0,0-.619.279l-7.2,8.146a.825.825,0,0,0,.079,1.171l0,.006L23.6,152.01a.826.826,0,0,0,1.235,0l19.949-22.49,0-.006a.825.825,0,0,0,.079-1.171Zm-9.281-6.774-3.669,5.915-5.88-5.915Zm-5.421,6.495h-11.9l5.949-5.984ZM22.4,121.569l-5.88,5.915-3.669-5.915Zm-11.141.566,3.678,5.929H6.015Zm-5.225,7.58h9.757l6.74,18.6Zm19.908,18.563,4.709-12.745a.826.826,0,1,0-1.549-.572l-4.874,13.191-6.681-18.436H42.4ZM33.5,128.064l3.678-5.929,5.239,5.929Z" transform="translate(-3.358 -119.918)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Grupo_470" data-name="Grupo 470" transform="translate(20.032)">
+    <g id="Grupo_469" data-name="Grupo 469">
+      <path id="Trazado_1147" data-name="Trazado 1147" d="M246.826,0A.826.826,0,0,0,246,.826V5.078a.826.826,0,1,0,1.651,0V.826A.826.826,0,0,0,246.826,0Z" transform="translate(-246)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Grupo_472" data-name="Grupo 472" transform="translate(23.959 3.021)">
+    <g id="Grupo_471" data-name="Grupo 471">
+      <path id="Trazado_1148" data-name="Trazado 1148" d="M297.981,36.837a.826.826,0,0,0-1.168,0l-3.007,3.007a.826.826,0,0,0,1.168,1.168L297.981,38A.826.826,0,0,0,297.981,36.837Z" transform="translate(-293.564 -36.595)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Grupo_474" data-name="Grupo 474" transform="translate(12.937 3.021)">
+    <g id="Grupo_473" data-name="Grupo 473">
+      <path id="Trazado_1149" data-name="Trazado 1149" d="M164.478,39.844l-3.007-3.007A.826.826,0,1,0,160.3,38l3.007,3.007a.826.826,0,1,0,1.168-1.168Z" transform="translate(-160.061 -36.595)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Grupo_476" data-name="Grupo 476" transform="translate(26.755 21.33)">
+    <g id="Grupo_475" data-name="Grupo 475">
+      <circle id="Elipse_43" data-name="Elipse 43" cx="0.826" cy="0.826" r="0.826" fill="#fff"/>
+    </g>
+  </g>
+</svg>
